@@ -11,6 +11,7 @@ public class Exercise1 {
         int n = scanner.nextInt();
         int result = sumOfSquares(n);
         System.out.print("Output: ");
+
         for (int i = 1; i <= n; i++) {
             System.out.print(i + "^2");
             if (i < n) {
