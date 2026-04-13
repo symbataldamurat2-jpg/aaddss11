@@ -1,3 +1,5 @@
+// Reads n strings and prints them in reverse order using recursion (works with char arrays)
+
 package org.example;
 
 import java.util.Scanner;

@@ -1,3 +1,5 @@
+// Computes sum of powers from b^0 to b^n using recursion: b^0 + b^1 + b^2 + ... + b^n
+
 package org.example;
 
 import java.util.Scanner;

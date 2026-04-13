@@ -1,3 +1,5 @@
+// Fills an n x n matrix with numbers 1..n^2 in clockwise spiral order using recursive layer-by-layer filling
+
 package org.example;
 
 import java.util.Scanner;

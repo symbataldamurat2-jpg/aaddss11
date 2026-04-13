@@ -1,3 +1,5 @@
+// Computes sum of first n positive integers using recursion: 1 + 2 + 3 + ... + n
+
 package org.example;
 
 import java.util.Scanner;

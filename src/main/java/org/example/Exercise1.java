@@ -1,3 +1,5 @@
+// Computes sum of squares from 1^2 to n^2 using recursion: 1^2 + 2^2 + ... + n^2
+
 package org.example;
 
 import java.util.Scanner;

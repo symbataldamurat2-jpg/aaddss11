@@ -1,3 +1,5 @@
+// Checks whether a number is a power of two using recursive division by 2 (2^0 = 1, 2^1 = 2, 2^2 = 4, ...)
+
 package org.example;
 
 import java.util.Scanner;

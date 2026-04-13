@@ -1,3 +1,5 @@
+// Generates all unique permutations of characters of a string using swap-based backtracking recursion (Heap's algorithm style)
+
 package org.example;
 
 import java.util.Scanner;

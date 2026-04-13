@@ -1,3 +1,5 @@
+// Generates all sequences of length n with digits from 1 to k (combinations with repetitions) using backtracking recursion
+
 package org.example;
 
 import java.util.Scanner;

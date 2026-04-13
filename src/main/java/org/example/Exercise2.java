@@ -1,3 +1,5 @@
+// Computes sum of first n elements of an array using recursion: arr[0] + arr[1] + ... + arr[n-1]
+
 package org.example;
 
 import java.util.Scanner;

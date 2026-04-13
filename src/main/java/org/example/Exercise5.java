@@ -1,3 +1,5 @@
+// Reads n integers and prints them in reverse order using recursion (stack LIFO behavior)
+
 package org.example;
 
 import java.util.Scanner;
